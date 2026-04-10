@@ -31,7 +31,7 @@ The project is hosted on GitHub Pages for easy access and preview.
 - **Meta Elements**: Links to external CSS stylesheet for separation of concerns
 - **Image Elements**: Uses `<img>` tags with descriptive alt text for better accessibility
 
-## 🎯 CSS Techniques Used
+##  CSS Techniques Used
 
 ### Layout & Responsive Design
 
