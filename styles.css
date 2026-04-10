@@ -67,7 +67,7 @@ img {
 .discover p {
     font-size: 1.1em;
     line-height: 1.6;
-    color: #457B9D;
+    color: C;
     margin-bottom: 20px;
 }
 
@@ -79,7 +79,7 @@ img {
 }
 
 .stat-box {
-    background-color: green;
+    background-color: #1D3557;
     color: white;
     padding: 30px;
     border-radius: 10px;
